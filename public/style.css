@@ -34,14 +34,16 @@ h1 #register{
   /* 12. Make the text BOLD */
   font-weight: bold;
   /* 13. Make the text color navy (look up the hex code for navy) */
-  color: navy;
+  color: 202A44;
 }
 
 hr {
   /* 14. Override default hr style with a 30-pixel bottom margin */
   margin-bottom: 30ps;
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
-  
+  border: 008AD8;
+  border-style: solid;
+  border-width: 2px;
 }
 
 /* 16. Set a style for the submit button with "registerbtn" class */
