@@ -34,7 +34,7 @@ h1 #register{
   /* 12. Make the text BOLD */
   font-weight: bold;
   /* 13. Make the text color navy (look up the hex code for navy) */
-  
+  color: navy;
 }
 
 hr {
